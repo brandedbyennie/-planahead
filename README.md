@@ -9,10 +9,10 @@ To-Do List and Journaling
 Provide a user-friendly interface for managing tasks and documenting progress.
 Automate task delegation based on users' available time.
 Facilitate effective planning and preparation for important or life-changing events.
-Support users in achieving their goals by optimizing their time management.
+Support users in achieving their goals by optimising their time management.
 
 ## Features:
-To-Do List Management: Allows users to create, organize, and prioritize tasks.
+To-Do List Management: Allows users to create, organise, and prioritise tasks.
 Journaling: Provides a platform for users to document their thoughts, progress, and reflections.
 Task Delegation: Automatically assigns tasks based on users' available time and priorities (planned feature).
 Advanced Planning: Integrates with users' calendars and schedules to optimise task management (planned feature).
