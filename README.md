@@ -22,3 +22,7 @@ Planning and Research
 
 ### Note:
 This GitHub repository is created for planning and research purposes. The software development process is yet to commence.
+
+### License:
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+
