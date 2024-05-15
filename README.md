@@ -26,3 +26,5 @@ This GitHub repository is created for planning and research purposes. The softwa
 ### License:
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
+# VIEW PROTOTYPE
+https://www.figma.com/proto/URVkc0HqwEDBMXlepGKeUZ/%23planahead?node-id=100-388&t=S0XfI7Y6dTSsYs4A-1&scaling=scale-down&page-id=100%3A205&starting-point-node-id=100%3A388
